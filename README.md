@@ -1,8 +1,8 @@
-**Kaun Banega Crorepati 🎯
+##Kaun Banega Crorepati 🎯
 
 A fun and interactive quiz game inspired by the famous Indian television show Kaun Banega Crorepati (KBC). This project brings the excitement of the hot seat to your terminal, where players answer multiple-choice questions to climb the money ladder and become a virtual crorepati!
 
-**Features ✨
+#Features ✨
 
 
 Multiple-choice questions with four options each.
@@ -15,15 +15,15 @@ Win tracking to record how far the player reaches.
 
 Replay option to try again after finishing.
 
-**How to Play 🕹️
+#How to Play 🕹️
 
 
 Run the program in your terminal.
 
 
-## Build with love with the help of CipherSchools
-
 Read the question carefully and choose the correct option (A, B, C, or D).
+
+## Build with love with the help of CipherSchools
 
 Use lifelines wisely to help with tough questions.
 
